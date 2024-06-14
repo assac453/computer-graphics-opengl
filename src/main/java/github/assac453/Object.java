@@ -8,6 +8,7 @@ import java.util.List;
 
 import static org.lwjgl.opengl.GL11.*;
 
+
 enum LIGHT_NUM{
     LIGHT0,
     LIGHT1,
